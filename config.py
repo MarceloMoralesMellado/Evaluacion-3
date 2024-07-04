@@ -1,0 +1,5 @@
+        print ("1.	Registrar pedido")
+        print ("2.	Listar los todos los pedidos")
+        print ("3.	Imprimir hoja de ruta")
+        print ("4.	Buscar un pedido por ID")
+        print ("5.	Salir del programa")
